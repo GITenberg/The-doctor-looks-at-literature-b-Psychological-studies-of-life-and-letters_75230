@@ -1,5 +1,8 @@
 _repo: The-doctor-looks-at-literature-b-Psychological-studies-of-life-and-letters_75230
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75230-h/images/cover.jpg
 creator:
   author:
     agent_name: Collins, Joseph
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45849
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Collins_(neurologist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75230#The-doctor-looks-at-literature-b-Psychological-studies-of-life-and-letters
 gutenberg_issued: '2025-01-28'
 gutenberg_type: Text
 identifiers:
